@@ -13,7 +13,7 @@
         >{{ option }}</option>
       </select>
 
-      <h3>Name & describe your event</h3>
+      <h3>Name & descrissssbe your event</h3>
 
       <label>Title</label>
       <input
